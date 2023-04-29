@@ -1,7 +1,7 @@
 # Increment_Threshold_Experiment_VisualField
 An experiment measuring increment thresholds using square stimuli and Pokorny &amp; Smith's (1997) pulsed- and steady-pedestal paradigms under hypothetical parvocellular- and magnocellular-biased conditions. The adaptive QUEST (Watson &amp; Pelli, 1983) is used to more efficiently and accurately measure the thresholds.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/JaeseonSong/Increment_Threshold_Experiments)
+![GitHub last commit](https://img.shields.io/github/last-commit/JaeseonSong/Increment_Threshold_Experiment_VisualField)
 
 > This experiment was created using PsychoPy v.2021.2.3 for a monitor with an 85-Hz refresh rate and a screen resolution of 800 x 600. The monitor was calibrated using a Photo Research PR-650 Spectrophotometer, and the viewing distance was 70 cm.
 
